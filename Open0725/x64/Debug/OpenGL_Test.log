@@ -1,0 +1,4 @@
+﻿D:\vs2019\Msbuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Open0725.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  01 HelloWindow.cpp
+  glad.c
+  OpenGL_Test.vcxproj -> D:\c++_project2019\OpenGL_Learning\Open0725\x64\Debug\OpenGL_Test.exe
