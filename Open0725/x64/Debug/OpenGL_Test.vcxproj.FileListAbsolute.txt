@@ -1,2 +1,0 @@
-D:\c++_project2019\OpenGL_Test\x64\Debug\OpenGL_Test.exe
-D:\c++_project2019\OpenGL_Learning\Open0725\x64\Debug\OpenGL_Test.exe
